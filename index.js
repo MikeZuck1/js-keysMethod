@@ -15,4 +15,4 @@ const useKeys = function() {
   console.log(iterateur.next());  // { value: 4, done: false }
   console.log(iterateur.next());  // { value: undefined, done: true }
 }; 
-useKeys(); // call the funtion 
+useKeys(); // call the funtion useKeys(); 
